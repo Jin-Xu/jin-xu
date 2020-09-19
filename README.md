@@ -4,6 +4,6 @@ Hi, there is not much to see here yet.
 http://lostwire.net
 
 ## Active projects
-* event store client https://github.com/lostwire/event-base
+* event store base https://github.com/lostwire/estore-base
 * event store server https://github.com/lostwire/event-store
 * event store client https://github.com/lostwire/event-client
