@@ -1,4 +1,8 @@
-Hi, there is not much to see here yet. 
+     | (_)_ __      \ \/ /   _
+  _  | | | '_ \ _____\  / | | |
+ | |_| | | | | |_____/  \ |_| |
+  \___/|_|_| |_|    /_/\_\__,_|
+
 
 ## Links
 http://lostwire.net
