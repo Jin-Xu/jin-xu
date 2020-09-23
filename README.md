@@ -12,8 +12,8 @@ http://lostwire.net
 
 ## Active projects
 * event store base https://github.com/lostwire/estore-base
-* event store server https://github.com/lostwire/event-store
-* event store client https://github.com/lostwire/event-client
+* event store server https://github.com/lostwire/estore-server
+* event store client https://github.com/lostwire/estore-client
 
 ## K-Fu 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
