@@ -6,6 +6,9 @@
  \___/|_|_| |_|    /_/\_\__,_|
 </pre>
 
+Recovering perfectionist
+
+[estore-base](https://github.com/lostwire/estore-base), [estore-server](https://github.com/lostwire/estore-server), [estore-client](https://github.com/lostwire/estore-client)
 
 ## Links
 http://lostwire.net
