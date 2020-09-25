@@ -8,15 +8,11 @@
 
 Recovering perfectionist
 
+## Active projects
 \[[estore-base](https://github.com/lostwire/estore-base)\], \[[estore-server](https://github.com/lostwire/estore-server)\], \[[estore-client](https://github.com/lostwire/estore-client)\]
 
 ## Links
 http://lostwire.net
-
-## Active projects
-* event store base https://github.com/lostwire/estore-base
-* event store server https://github.com/lostwire/estore-server
-* event store client https://github.com/lostwire/estore-client
 
 ## K-Fu 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
